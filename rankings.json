@@ -1,0 +1,24 @@
+[
+  {
+    "rank": 1,
+    "submission_id": "sub1",
+    "score": 171039067.36,
+    "metrics": {
+      "length": 35,
+      "complexity": 1,
+      "execution_time": 0.15,
+      "timestamp": "2024-03-14 10:00:00"
+    }
+  },
+  {
+    "rank": 2,
+    "submission_id": "sub2",
+    "score": 171039157.5,
+    "metrics": {
+      "length": 331,
+      "complexity": 4,
+      "execution_time": 0.25,
+      "timestamp": "2024-03-14 10:05:00"
+    }
+  }
+]
